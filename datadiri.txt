@@ -2,3 +2,5 @@ nama: yustika sari dirgahayu
 nim : 1829140018
 kelas : tekom B
 kota asal : makassar
+jenis kelamin : perempuan
+agama : islam
